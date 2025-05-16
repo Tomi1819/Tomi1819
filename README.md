@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Tomi Toshev</h1>
-<h3 align="center">Junior .NET Developer passionate about building backend systems and clean APIs</h3>
+<h3 align="center">Junior/Intern .NET Developer passionate about building backend systems and clean APIs</h3>
 
 ---
 
@@ -46,15 +46,6 @@
 
 ![Tomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomi1819&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomi1819&layout=compact&theme=radical)
-
----
-
-## 📫 Contact Me
-
-- 📍 Vratsa / Veliko Tarnovo, Bulgaria
-- 📧 toshevtomi@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/tomi-toshev-0070a9348)
-- 💻 [GitHub](https://github.com/Tomi1819)
 
 ---
 
