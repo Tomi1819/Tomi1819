@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Tomi Toshev</h1>
-<h3 align="center">Junior/Intern .NET Developer passionate about building backend systems and clean APIs</h3>
+<h3 align="center">Junior/Intern .NET Developer</h3>
 
 ---
 
 🎓 I'm a final-year Software Engineering student at the University of Veliko Tarnovo.  
 🔧 I build RESTful APIs using ASP.NET Core and C#.  
 🌱 Currently expanding my knowledge in cloud technologies and CI/CD pipelines.  
-🤝 I love collaborative environments, code reviews, and learning through real projects.
+🤝 I love collaborative environments and learning through real projects.
 
 ---
 
@@ -39,13 +39,6 @@
 
 - 🔗 [GitHub Repo](https://github.com/Tomi1819/AutoPartsWeb)
 - Tech: ASP.NET Core, SQL Server, Razor Pages
-
----
-
-## 📈 GitHub Stats
-
-![Tomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomi1819&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomi1819&layout=compact&theme=radical)
 
 ---
 
