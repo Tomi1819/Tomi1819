@@ -42,10 +42,4 @@
 
 ---
 
-## 📫 Contact Me
-
-- 📍 Vratsa / Veliko Tarnovo, Bulgaria
-- 📧 toshevtomi@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/tomi-toshev-0070a9348)
-
 *“Always learning, always building.”*
