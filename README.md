@@ -42,7 +42,7 @@
 
 ---
 
-## 🏅 Certifications from SoftUni
+## 🏅 Certifications
 
 Here are some of the courses I’ve successfully completed as part of the C# Full-Stack Developer Program at [SoftUni](https://softuni.bg):
 
