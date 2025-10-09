@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Tomi Toshev</h1>
-<h3 align="center">Junior/Intern .NET Developer</h3>
+<h3 align="center">Junior .NET Developer</h3>
 
 ---
 
