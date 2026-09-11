@@ -4,6 +4,7 @@
 ---
  
 🎓 I'm a final-year Software Engineering student at the University of Veliko Tarnovo.  
+📜 Certified **Back-End Software Engineer with C#** (SoftUni professional qualification diploma).  
 🔧 I build RESTful APIs using ASP.NET Core and C#.  
 🌱 Currently expanding my knowledge in cloud technologies and CI/CD pipelines.  
 🤝 I love collaborative environments and learning through real projects.
@@ -41,6 +42,14 @@
  
 - 🔗 [GitHub Repo](https://github.com/Tomi1819/AutoPartsWeb)
 - Tech: ASP.NET Core, SQL Server, Razor Pages
+---
+ 
+## 🎓 Diploma
+ 
+> **Back-End Software Engineer with C#** — Professional qualification diploma, [SoftUni](https://softuni.bg) (August 2026)
+>
+> Awarded on completion of the full program requirements. 📜 [View Diploma](https://softuni.bg/certificates/certificates/converttoimage/265130?code=7d846122)
+ 
 ---
  
 ## 🏅 Certifications
