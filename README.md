@@ -65,11 +65,9 @@ Courses I’ve successfully completed as part of the C# Full-Stack Developer Pro
  
 ### DevOps & Infrastructure
  
-Additional courses taken beyond the core program:
- 
 | Certificate | Description | Link |
 |-------------|-------------|------|
-| ⚙️ Containerization and Infrastructure | Docker in depth, orchestration with Docker Swarm and Podman, Infrastructure as Code with Terraform and Ansible | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/263654?code=cfc8403a) |
+| ⚙️ Containerization & Infrastructure | Docker, Swarm, Podman, Terraform, Ansible | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/263654?code=cfc8403a) |
  
 > 🧠 *These certifications reflect not only theoretical knowledge but also practical project work completed during each course.*
  
