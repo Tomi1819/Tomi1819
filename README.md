@@ -1,17 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Tomi Toshev</h1>
 <h3 align="center">Junior .NET Developer</h3>
-
+ 
 ---
-
+ 
 🎓 I'm a final-year Software Engineering student at the University of Veliko Tarnovo.  
 🔧 I build RESTful APIs using ASP.NET Core and C#.  
 🌱 Currently expanding my knowledge in cloud technologies and CI/CD pipelines.  
 🤝 I love collaborative environments and learning through real projects.
-
+ 
 ---
-
+ 
 ## 🛠 Tech Stack
-
+ 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/-EF%20Core-512BD4?style=flat-square)
@@ -22,30 +22,33 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
+![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+ 
 ---
-
+ 
 ## 📂 Featured Projects
-
+ 
 ### 🐾 Animal Classifier
 > ML-powered app to classify animals from images and video
-
+ 
 - 🔗 [Backend](https://github.com/Tomi1819/AnimalClassifier)
 - 🔗 [Frontend](https://github.com/Tomi1819/AnimalClassifier.Frontend)
 - Tech: ASP.NET Core, REST API, ML model, HTML/CSS/JS
-
 ### 🚗 AutoPartsWeb
 > A sample online store for auto parts management
-
+ 
 - 🔗 [GitHub Repo](https://github.com/Tomi1819/AutoPartsWeb)
 - Tech: ASP.NET Core, SQL Server, Razor Pages
-
 ---
-
+ 
 ## 🏅 Certifications
-
-Here are some of the courses I’ve successfully completed as part of the C# Full-Stack Developer Program at [SoftUni](https://softuni.bg):
-
+ 
+### C# Full-Stack Developer Program
+ 
+Courses I’ve successfully completed as part of the C# Full-Stack Developer Program at [SoftUni](https://softuni.bg):
+ 
 | Certificate | Description | Link |
 |-------------|-------------|------|
 | 🧱 Programming Basics | The foundation of programming logic using C# | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/134090?code=0753ff5c) |
@@ -59,9 +62,17 @@ Here are some of the courses I’ve successfully completed as part of the C# Ful
 | 🖼️ JavaScript Front-End | DOM manipulation, events, AJAX | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/181340?code=a917561f) |
 | 🔧 Software Engineering & DevOps | SDLC, Git, CI/CD, design principles | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/219714?code=971f9782) |
 | ☁️ Containers and Cloud | Docker, Kubernetes (basics), cloud concepts | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/224743?code=fd7cc35e) |
-
+ 
+### DevOps & Infrastructure
+ 
+Additional courses taken beyond the core program:
+ 
+| Certificate | Description | Link |
+|-------------|-------------|------|
+| ⚙️ Containerization and Infrastructure | Docker in depth, orchestration with Docker Swarm and Podman, Infrastructure as Code with Terraform and Ansible | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/263654?code=cfc8403a) |
+ 
 > 🧠 *These certifications reflect not only theoretical knowledge but also practical project work completed during each course.*
-
+ 
 ---
-
+ 
 *“Always learning, always building.”*
