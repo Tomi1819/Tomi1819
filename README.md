@@ -45,12 +45,11 @@
  
 ## 🏅 Certifications
  
-### C# Full-Stack Developer Program
- 
-Courses I’ve successfully completed as part of the C# Full-Stack Developer Program at [SoftUni](https://softuni.bg):
+Courses I’ve successfully completed at [SoftUni](https://softuni.bg):
  
 | Certificate | Description | Link |
 |-------------|-------------|------|
+| **C# Full-Stack Developer Program** | | |
 | 🧱 Programming Basics | The foundation of programming logic using C# | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/134090?code=0753ff5c) |
 | 🧮 Programming Fundamentals with C# | Data types, methods, arrays, and more | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/151756?code=278865ce) |
 | 🔁 C# Advanced | Lists, stacks, queues, dictionaries | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/169471?code=3065026f) |
@@ -62,11 +61,7 @@ Courses I’ve successfully completed as part of the C# Full-Stack Developer Pro
 | 🖼️ JavaScript Front-End | DOM manipulation, events, AJAX | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/181340?code=a917561f) |
 | 🔧 Software Engineering & DevOps | SDLC, Git, CI/CD, design principles | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/219714?code=971f9782) |
 | ☁️ Containers and Cloud | Docker, Kubernetes (basics), cloud concepts | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/224743?code=fd7cc35e) |
- 
-### DevOps & Infrastructure
- 
-| Certificate | Description | Link |
-|-------------|-------------|------|
+| **DevOps & Infrastructure** | | |
 | ⚙️ Containerization & Infrastructure | Docker, Swarm, Podman, Terraform, Ansible | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/263654?code=cfc8403a) |
  
 > 🧠 *These certifications reflect not only theoretical knowledge but also practical project work completed during each course.*
