@@ -5,7 +5,7 @@
 
 <a href="https://github.com/Tomi1819"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A371F7&center=true&vCenter=true&width=600&lines=C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Designing+RESTful+APIs+the+clean+way;Learning+cloud%2C+CI%2FCD+%26+containers;Ship+it+%C2%B7+review+it+%C2%B7+make+it+better" alt="What I do"/></a>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/tomi-toshev-0070a9348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:toshevtomi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
