@@ -25,7 +25,7 @@ I like building things that actually run — APIs, data models, the plumbing beh
 🌱 Learning / exploring
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,azure,githubactions&theme=dark" alt="learning stack"/> <br/> <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white"/> <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> </div> <br/> <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-📂 Featured Projects
+📂 Personal Projects
 
 <table>
 <tr>
@@ -64,28 +64,30 @@ Online store for auto parts — catalogue, inventory management, and a relationa
 
 Professional qualification diploma · SoftUni · August 2026 Awarded on completion of the full program requirements. → View diploma
 
-<details> <summary><b>🏅 13 course certificates — click to expand</b></summary> <br/>
+<details> <summary><b>🏅 12 course certificates — click to expand</b></summary> <br/>
 
-**🎓 C# Full-Stack Developer Program**
+Courses I've successfully completed as part of the C# Full-Stack Developer Program at [SoftUni](https://softuni.bg):
 
-| Course | Covered |
-|:--|:--|
-| Programming Basics | Programming logic with C# |
-| Programming Fundamentals with C# | Data types, methods, arrays |
-| C# Advanced | Lists, stacks, queues, dictionaries |
-| MS SQL | Queries, joins, database design |
-| Entity Framework Core | ORM, LINQ, migrations, code-first |
-| ASP.NET Fundamentals | Web apps with ASP.NET MVC |
-| ASP.NET Advanced | Areas, Identity, async, middleware |
-| HTML & CSS | Layout, positioning, media queries |
-| JavaScript Front-End | DOM, events, AJAX |
-| Software Engineering & DevOps | SDLC, Git, CI/CD, design principles |
-| Containers and Cloud | Docker, Kubernetes basics, cloud concepts |
+| Certificate | Description | Link |
+|-------------|-------------|------|
+| 🧱 Programming Basics | The foundation of programming logic using C# | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/134090?code=0753ff5c) |
+| 🧮 Programming Fundamentals with C# | Data types, methods, arrays, and more | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/151756?code=278865ce) |
+| 🔁 C# Advanced | Lists, stacks, queues, dictionaries | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/169471?code=3065026f) |
+| 🗃️ MS SQL | SQL basics, queries, joins, DB design | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/185810?code=de6e2516) |
+| 🔗 Entity Framework Core | ORM, LINQ, Migrations, Code First | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/197367?code=260bed5d) |
+| 🌐 ASP.NET Fundamentals | Building web apps with ASP.NET MVC | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/206849?code=2845d2be) |
+| 🚀 ASP.NET Advanced | Areas, Identity, async, middleware | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/215091?code=848da0f1) |
+| 🎨 HTML & CSS | Page layout, positioning, media queries | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/174861?code=02a3891e) |
+| 🖼️ JavaScript Front-End | DOM manipulation, events, AJAX | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/181340?code=a917561f) |
+| 🔧 Software Engineering & DevOps | SDLC, Git, CI/CD, design principles | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/219714?code=971f9782) |
+| ☁️ Containers and Cloud | Docker, Kubernetes (basics), cloud concepts | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/224743?code=fd7cc35e) |
 
-**⚙️ DevOps & Infrastructure**
+### DevOps & Infrastructure
 
-| Course | Covered |
-|:--|:--|
-| Containerization & Infrastructure | Docker, Swarm, Podman, Terraform, Ansible |
+Additional courses taken beyond the core program:
+
+| Certificate | Description | Link |
+|-------------|-------------|------|
+| ⚙️ Containerization and Infrastructure | Docker in depth, orchestration with Docker Swarm and Podman, Infrastructure as Code with Terraform and Ansible | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/263654?code=cfc8403a) |
 
 </details> <br/> <!-- ═══════════════════════════ FOOTER ═══════════════════════════ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:512BD4&height=120&section=footer" width="100%" alt="footer"/> </div>
