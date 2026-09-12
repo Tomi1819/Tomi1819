@@ -1,4 +1,19 @@
-<div align="center"> <!-- ═══════════════════════════ HEADER ═══════════════════════════ --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:8B5CF6&height=190&section=header&text=Tomi%20Toshev&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20.NET%20Developer%20%C2%B7%20Building%20things%20that%20run&descAlignY=60&descSize=16" width="100%" alt="banner"/> <a href="https://github.com/Tomi1819"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=560&lines=Junior+.NET+Developer;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Building+APIs%2C+learning+the+cloud+%E2%98%81%EF%B8%8F;Ship+it%2C+get+it+reviewed%2C+make+it+better" alt="Typing SVG"/> </a> <br/> <a href="https://www.linkedin.com/in/tomi-toshev-0070a9348/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:toshevtomi@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://softuni.bg/certificates/certificates/converttoimage/265130?code=7d846122"> <img src="https://img.shields.io/badge/Diploma-Verified-512BD4?style=for-the-badge&logo=nuget&logoColor=white" alt="Diploma"/> </a> <img src="https://img.shields.io/badge/Bulgaria-remote%20friendly-2E3440?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/> <img src="https://komarev.com/ghpvc/?username=Tomi1819&style=for-the-badge&color=512BD4&label=PROFILE+VIEWS" alt="Profile views"/> </div> <br/> <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<div align="center">
+
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:A371F7&height=200&section=header&text=Tomi%20Toshev&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Junior%20.NET%20Developer%20%7C%20building%20APIs%20that%20run&descAlignY=56&descSize=18" width="100%" alt="Tomi Toshev banner"/>
+
+<a href="https://github.com/Tomi1819"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A371F7&center=true&vCenter=true&width=600&lines=C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Designing+RESTful+APIs+the+clean+way;Learning+cloud%2C+CI%2FCD+%26+containers;Ship+it+%C2%B7+review+it+%C2%B7+make+it+better" alt="What I do"/></a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/tomi-toshev-0070a9348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:toshevtomi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://softuni.bg/certificates/certificates/converttoimage/265130?code=7d846122"><img src="https://img.shields.io/badge/Diploma-Verified-2EA043?style=for-the-badge&logo=googledocs&logoColor=white" alt="Verified diploma"/></a>
+
+<br/>
+
+</div> <br/> <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 👨‍💻 About
 
 | | |
