@@ -76,9 +76,4 @@ DevOps & Infrastructure
 
 Course	Covered	
 Containerization & Infrastructure	Docker, Swarm, Podman, Terraform, Ansible	View
-</details> <br/> <!-- ═══════════════════════════ CONTACT ═══════════════════════════ --> <div align="center">
-💬 Open to junior .NET roles
-
-Happy to talk about backend work, APIs, or anything .NET.
-
-<a href="https://www.linkedin.com/in/tomi-toshev-0070a9348/"> <img src="https://img.shields.io/badge/Reach%20out%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:toshevtomi@gmail.com"> <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:512BD4&height=120&section=footer" width="100%" alt="footer"/> </div>
+</details> <br/> <!-- ═══════════════════════════ FOOTER ═══════════════════════════ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:512BD4&height=120&section=footer" width="100%" alt="footer"/> </div>
