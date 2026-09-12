@@ -66,23 +66,26 @@ Professional qualification diploma · SoftUni · August 2026 Awarded on completi
 
 <details> <summary><b>🏅 13 course certificates — click to expand</b></summary> <br/>
 
-C# Full-Stack Developer Program
+**🎓 C# Full-Stack Developer Program**
 
-Course	Covered	
-Programming Basics	Programming logic with C#	View
-Programming Fundamentals with C#	Data types, methods, arrays	View
-C# Advanced	Lists, stacks, queues, dictionaries	View
-MS SQL	Queries, joins, database design	View
-Entity Framework Core	ORM, LINQ, migrations, code-first	View
-ASP.NET Fundamentals	Web apps with ASP.NET MVC	View
-ASP.NET Advanced	Areas, Identity, async, middleware	View
-HTML & CSS	Layout, positioning, media queries	View
-JavaScript Front-End	DOM, events, AJAX	View
-Software Engineering & DevOps	SDLC, Git, CI/CD, design principles	View
-Containers and Cloud	Docker, Kubernetes basics, cloud concepts	View
+| Course | Covered |
+|:--|:--|
+| Programming Basics | Programming logic with C# |
+| Programming Fundamentals with C# | Data types, methods, arrays |
+| C# Advanced | Lists, stacks, queues, dictionaries |
+| MS SQL | Queries, joins, database design |
+| Entity Framework Core | ORM, LINQ, migrations, code-first |
+| ASP.NET Fundamentals | Web apps with ASP.NET MVC |
+| ASP.NET Advanced | Areas, Identity, async, middleware |
+| HTML & CSS | Layout, positioning, media queries |
+| JavaScript Front-End | DOM, events, AJAX |
+| Software Engineering & DevOps | SDLC, Git, CI/CD, design principles |
+| Containers and Cloud | Docker, Kubernetes basics, cloud concepts |
 
-DevOps & Infrastructure
+**⚙️ DevOps & Infrastructure**
 
-Course	Covered	
-Containerization & Infrastructure	Docker, Swarm, Podman, Terraform, Ansible	View
+| Course | Covered |
+|:--|:--|
+| Containerization & Infrastructure | Docker, Swarm, Podman, Terraform, Ansible |
+
 </details> <br/> <!-- ═══════════════════════════ FOOTER ═══════════════════════════ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:512BD4&height=120&section=footer" width="100%" alt="footer"/> </div>
