@@ -75,9 +75,12 @@ Online store for auto parts — catalogue, inventory management, and a relationa
 📊 GitHub Activity
 <div align="center"> <img src="https://streak-stats.demolab.com?user=Tomi1819&hide_border=true&background=0D1117&stroke=A371F7&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&titleColor=A371F7" width="80%" alt="streak"/> </div> <br/> <!-- ═══════════════════════════ CREDENTIALS ═══════════════════════════ -->
 🎓 Credentials
-📜 Back-End Software Engineer with C#
 
-Professional qualification diploma · SoftUni · August 2026 Awarded on completion of the full program requirements. → View diploma
+**📜 Back-End Software Engineer with C#**
+
+Professional qualification diploma · **SoftUni** · August 2026 — awarded on completion of the full program requirements.
+
+[![View Diploma](https://img.shields.io/badge/View%20Diploma-512BD4?style=for-the-badge&logo=googledocs&logoColor=white)](https://softuni.bg/certificates/certificates/converttoimage/265130?code=7d846122)
 
 <details> <summary><b>🏅 12 course certificates — click to expand</b></summary> <br/>
 
