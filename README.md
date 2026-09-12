@@ -26,29 +26,37 @@ I like building things that actually run — APIs, data models, the plumbing beh
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,azure,githubactions&theme=dark" alt="learning stack"/> <br/> <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white"/> <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> </div> <br/> <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 📂 Featured Projects
-<table> <tr> <td width="50%" valign="top">
-🐾 Animal Classifier
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [🐾 Animal Classifier](https://github.com/Tomi1819/AnimalClassifier)
 
 ML-powered web app that recognises animals in images and video. Upload a file, get a prediction back through a REST API.
 
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/ML.NET-512BD4?style=flat-square"/> <img src="https://img.shields.io/badge/REST%20API-6DB33F?style=flat-square"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-What I learned: wiring a trained model into a production-shaped API, handling file uploads, and splitting frontend from backend cleanly.
+**What I learned —** wiring a trained model into a production-shaped API, handling file uploads, and splitting frontend from backend cleanly.
 
-Backend Frontend
+<a href="https://github.com/Tomi1819/AnimalClassifier"><img src="https://img.shields.io/badge/Backend-512BD4?style=for-the-badge&logo=github&logoColor=white" alt="Backend repository"/></a> <a href="https://github.com/Tomi1819/AnimalClassifier.Frontend"><img src="https://img.shields.io/badge/Frontend-A371F7?style=for-the-badge&logo=github&logoColor=white" alt="Frontend repository"/></a>
 
-</td> <td width="50%" valign="top">
-🚗 AutoPartsWeb
+</td>
+<td width="50%" valign="top">
+
+### [🚗 AutoPartsWeb](https://github.com/Tomi1819/AutoPartsWeb)
 
 Online store for auto parts — catalogue, inventory management, and a relational data model behind it.
 
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Razor%20Pages-512BD4?style=flat-square"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=nuget&logoColor=white"/>
 
-What I learned: designing a schema that survives real queries, EF Core migrations, and server-rendered UI with Razor.
+**What I learned —** designing a schema that survives real queries, EF Core migrations, and server-rendered UI with Razor.
 
-Repository
+<a href="https://github.com/Tomi1819/AutoPartsWeb"><img src="https://img.shields.io/badge/Repository-512BD4?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
 
-</td> </tr> </table> <br/> <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+</td>
+</tr>
+</table> <br/> <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 📊 GitHub Activity
 <div align="center"> <img src="https://streak-stats.demolab.com?user=Tomi1819&hide_border=true&background=0D1117&stroke=A371F7&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&titleColor=A371F7" width="80%" alt="streak"/> </div> <br/> <!-- ═══════════════════════════ CREDENTIALS ═══════════════════════════ -->
 🎓 Credentials
