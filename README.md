@@ -49,11 +49,7 @@ Repository
 
 </td> </tr> </table> <br/> <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 📊 GitHub Activity
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tomi1819&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=A371F7&icon_color=A371F7&text_color=C9D1D9&bg_color=0D1117" alt="stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomi1819&layout=compact&langs_count=8&hide_border=true&title_color=A371F7&text_color=C9D1D9&bg_color=0D1117" alt="top languages"/> <br/> <img src="https://streak-stats.demolab.com?user=Tomi1819&hide_border=true&background=0D1117&stroke=A371F7&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&titleColor=A371F7" width="80%" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomi1819&bg_color=0D1117&color=A371F7&line=A371F7&point=FFFFFF&area=true&area_color=512BD4&hide_border=true" width="95%" alt="activity graph"/> <br/> <img src="https://github-profile-trophy.vercel.app/?username=Tomi1819&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/> </div> <br/> <!-- ═══════════════════════════ CREDENTIALS ═══════════════════════════ -->
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Tomi1819&hide_border=true&background=0D1117&stroke=A371F7&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&titleColor=A371F7" width="80%" alt="streak"/> </div> <br/> <!-- ═══════════════════════════ CREDENTIALS ═══════════════════════════ -->
 🎓 Credentials
 📜 Back-End Software Engineer with C#
 
