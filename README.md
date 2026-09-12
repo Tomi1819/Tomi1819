@@ -81,13 +81,6 @@ Courses I've successfully completed as part of the C# Full-Stack Developer Progr
 | 🖼️ JavaScript Front-End | DOM manipulation, events, AJAX | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/181340?code=a917561f) |
 | 🔧 Software Engineering & DevOps | SDLC, Git, CI/CD, design principles | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/219714?code=971f9782) |
 | ☁️ Containers and Cloud | Docker, Kubernetes (basics), cloud concepts | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/224743?code=fd7cc35e) |
-
-### DevOps & Infrastructure
-
-Additional courses taken beyond the core program:
-
-| Certificate | Description | Link |
-|-------------|-------------|------|
 | ⚙️ Containerization and Infrastructure | Docker in depth, orchestration with Docker Swarm and Podman, Infrastructure as Code with Terraform and Ansible | [View Certificate](https://softuni.bg/certificates/certificates/converttoimage/263654?code=cfc8403a) |
 
 </details> <br/> <!-- ═══════════════════════════ FOOTER ═══════════════════════════ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:512BD4&height=120&section=footer" width="100%" alt="footer"/> </div>
