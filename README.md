@@ -23,7 +23,6 @@
 | 🎓 **Education** | Software Engineering — University of Veliko Tarnovo · final year |
 | 📜 **Certified** | Back-End Software Engineer with C# — SoftUni |
 | 🌱 **Learning** | Cloud technologies · CI/CD pipelines |
-| 🏁 **Outside** | Motorsport 🏎️ · Fishing 🎣 · Lifting 🏋️ |
 
 I like building things that actually run — APIs, data models, the plumbing behind a working app. I learn fastest on real projects with other people, so I'm looking for a junior role where I can ship and get reviewed.
 
