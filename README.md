@@ -1,30 +1,57 @@
 <div align="center">
 
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:A371F7&height=200&section=header&text=Tomi%20Toshev&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Junior%20.NET%20Developer%20%7C%20building%20APIs%20that%20run&descAlignY=56&descSize=18" width="100%" alt="Tomi Toshev banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:A371F7&height=200&section=header&text=Tomi%20Toshev&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Junior%20.NET%20Developer%20·%20building%20APIs%20that%20run&descAlignY=56&descSize=18" width="100%" alt="Tomi Toshev banner"/>
 
-<a href="https://github.com/Tomi1819"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A371F7&center=true&vCenter=true&width=600&lines=C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Designing+RESTful+APIs+the+clean+way;Learning+cloud%2C+CI%2FCD+%26+containers;Ship+it+%C2%B7+review+it+%C2%B7+make+it+better" alt="What I do"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A371F7&center=true&vCenter=true&width=600&lines=C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Designing+RESTful+APIs+the+clean+way;Learning+cloud%2C+CI%2FCD+%26+containers;Ship+it+·+review+it+·+make+it+better" alt="What I do"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/tomi-toshev-0070a9348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:toshevtomi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://softuni.bg/certificates/certificates/converttoimage/265130?code=7d846122"><img src="https://img.shields.io/badge/Diploma-Verified-2EA043?style=for-the-badge&logo=googledocs&logoColor=white" alt="Verified diploma"/></a>
 
-<br/>
+<br/><br/>
 
-</div> <br/> <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-👨‍💻 About
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<h2>👨‍💻 About Me</h2>
 
-| | |
-|:--|:--|
-| 🧑‍💻 **Role** | Junior .NET Developer |
-| 🎯 **Focus** | RESTful APIs with ASP.NET Core |
-| 🎓 **Education** | Software Engineering — University of Veliko Tarnovo · final year |
-| 📜 **Certified** | Back-End Software Engineer with C# — SoftUni |
-| 🌱 **Learning** | Cloud technologies · CI/CD pipelines |
+<p>
+  <img src="https://img.shields.io/badge/Focus-RESTful%20APIs-A371F7?style=flat-square&logo=swagger&logoColor=white" alt="Focus RESTful APIs"/>
+  <img src="https://img.shields.io/badge/Mindset-Ship%20·%20Review%20·%20Improve-512BD4?style=flat-square&logo=git&logoColor=white" alt="Ship, review, improve"/>
+</p>
 
-I like building things that actually run — APIs, data models, the plumbing behind a working app. I learn fastest on real projects with other people, so I'm looking for a junior role where I can ship and get reviewed.
+<p align="center">
+  I build things that actually run — APIs, data models and the plumbing behind a working app.<br/>
+  I learn fastest on real projects with a team, where code gets shipped, reviewed and made better.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>💼</h3>
+      <b>Work</b><br/>
+      <sub>Building REST APIs<br/>ASP.NET Core · EF Core · SQL Server</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎓</h3>
+      <b>Education</b><br/>
+      <sub>Software Engineering<br/>University of Veliko Tarnovo</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>📜</h3>
+      <b>Certified</b><br/>
+      <sub>Back-End Engineer with C#<br/>SoftUni</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      🌱 &nbsp;<b>Currently exploring:</b>&nbsp; Cloud &nbsp;·&nbsp; CI/CD pipelines &nbsp;·&nbsp; Containers
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br/> <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 🛠️ Tech Stack
