@@ -15,7 +15,7 @@
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 </div> <br/>
-<h2 align="center">👨‍💻 About</h2>
+<h3 align="center">👨‍💻 About</h3>
 
 <table>
   <tr>
