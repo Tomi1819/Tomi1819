@@ -13,16 +13,32 @@
 
 <br/>
 
-</div> <br/> <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-👨‍💻 About
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+</div> <br/>
+<h2 align="center">👨‍💻 About</h2>
 
-| | |
-|:--|:--|
-| 🧑‍💻 **Role** | Junior .NET Developer |
-| 🎯 **Focus** | RESTful APIs with ASP.NET Core |
-| 🎓 **Education** | Software Engineering — University of Veliko Tarnovo · final year |
-| 📜 **Certified** | Back-End Software Engineer with C# — SoftUni |
-| 🌱 **Learning** | Cloud technologies · CI/CD pipelines |
+<table>
+  <tr>
+    <td>🧑‍💻 <b>Role</b></td>
+    <td>Junior .NET Developer</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Focus</b></td>
+    <td>RESTful APIs with ASP.NET Core</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>Education</b></td>
+    <td>Software Engineering — University of Veliko Tarnovo · final year</td>
+  </tr>
+  <tr>
+    <td>📜 <b>Certified</b></td>
+    <td>Back-End Software Engineer with C# — SoftUni</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Learning</b></td>
+    <td>Cloud technologies · CI/CD pipelines</td>
+  </tr>
+</table>
 
 I like building things that actually run — APIs, data models, the plumbing behind a working app. I learn fastest on real projects with other people, so I'm looking for a junior role where I can ship and get reviewed.
 
