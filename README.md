@@ -76,7 +76,7 @@ ML-powered web app that recognises animals in images and video. Upload a file, g
 
 ### [🚗 AutoPartsWeb](https://github.com/Tomi1819/AutoPartsWeb)
 
-Online store for auto parts — catalogue, inventory management, and a relational data model behind it.
+A very simple online store for auto parts — catalogue, inventory management, and a relational data model behind it.
 
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Razor%20Pages-512BD4?style=flat-square"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=nuget&logoColor=white"/>
 
