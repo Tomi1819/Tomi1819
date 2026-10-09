@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td>🧑‍💻 <b>Role</b></td>
-    <td>Junior .NET Developer</td>
+    <td>Forward Deployed Engineer</td>
   </tr>
   <tr>
     <td>🎯 <b>Focus</b></td>
