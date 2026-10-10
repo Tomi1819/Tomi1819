@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-I like building things that actually run — APIs, data models, the plumbing behind a working app. I learn fastest on real projects with other people, so I'm looking for a junior role where I can ship and get reviewed.
+Software developer and AI advocate. Building tools where humans and AI work side by side.
 
 <br/> <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 🛠️ Tech Stack
