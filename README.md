@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-Software developer and AI advocate. Building tools where humans and AI work side by side.
+Software developer and AI enthusiast. Building tools where humans and AI work side by side.
 
 <br/> <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 🛠️ Tech Stack
