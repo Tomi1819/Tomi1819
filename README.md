@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>🎓 <b>Education</b></td>
-    <td>Software Engineering — University of Veliko Tarnovo · final year</td>
+    <td>Software Engineering — University of Veliko Tarnovo</td>
   </tr>
   <tr>
     <td>📜 <b>Certified</b></td>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td>🌱 <b>Learning</b></td>
-    <td>Cloud technologies · CI/CD pipelines</td>
+    <td>Cloud technologies · CI/CD pipelines · Infrastructure</td>
   </tr>
 </table>
 
