@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-Software developer and AI enthusiast. Building tools where humans and AI work side by side.
+Software developer and AI enthusiast. Building tools where humans and AI work side by side. I work directly with customers to turn real-world problems into working software, from the first conversation to production.
 
 <br/> <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 🛠️ Tech Stack
