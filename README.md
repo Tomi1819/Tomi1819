@@ -28,11 +28,11 @@
   </tr>
   <tr>
     <td>🎓 <b>Education</b></td>
-    <td>Software Engineering — University of Veliko Tarnovo</td>
+    <td>Software Engineering - University of Veliko Tarnovo</td>
   </tr>
   <tr>
     <td>📜 <b>Certified</b></td>
-    <td>Back-End Software Engineer with C# — SoftUni</td>
+    <td>Back-End Software Engineer with C# - SoftUni</td>
   </tr>
   <tr>
     <td>🌱 <b>Learning</b></td>
