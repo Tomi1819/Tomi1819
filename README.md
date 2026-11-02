@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:A371F7&height=200&section=header&text=Tomi%20Toshev&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Junior%20.NET%20Developer%20%7C%20building%20APIs%20that%20run&descAlignY=56&descSize=18" width="100%" alt="Tomi Toshev banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:A371F7&height=200&section=header&text=Tomi%20Toshev&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Forward%20Deployed%20Engineer%20%7C%20building%20APIs%20that%20run&descAlignY=56&descSize=18" width="100%" alt="Tomi Toshev banner"/>
 
 <a href="https://github.com/Tomi1819"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A371F7&center=true&vCenter=true&width=600&lines=C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Designing+RESTful+APIs+the+clean+way;Learning+cloud%2C+CI%2FCD+%26+containers;Ship+it+%C2%B7+review+it+%C2%B7+make+it+better" alt="What I do"/></a>
 
