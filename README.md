@@ -15,7 +15,7 @@
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 </div> <br/>
-<h3 align="center">👨‍💻 About</h3>
+<h3>👨‍💻 About</h3>
 
 <table>
   <tr>
@@ -43,7 +43,7 @@
 Software developer and AI enthusiast. Building tools where humans and AI work side by side. I work directly with customers to turn real-world problems into working software, from the first conversation to production.
 
 <br/> <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 <div align="center">
 
 ⚡ Working with daily
@@ -81,7 +81,7 @@ Software developer and AI enthusiast. Building tools where humans and AI work si
 <br/>
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-📂 Personal Projects
+<h3>📂 Personal Projects</h3>
 
 <table>
 <tr>
@@ -113,9 +113,13 @@ A very simple online store for auto parts — catalogue, inventory management, a
 </td>
 </tr>
 </table> <br/> <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-📊 GitHub Activity
-<div align="center"> <img src="https://streak-stats.demolab.com?user=Tomi1819&hide_border=true&background=0D1117&stroke=A371F7&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&titleColor=A371F7" width="80%" alt="streak"/> </div> <br/> <!-- ═══════════════════════════ CREDENTIALS ═══════════════════════════ -->
-🎓 Credentials
+<h3>📊 GitHub Activity</h3>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Tomi1819&hide_border=true&background=0D1117&stroke=A371F7&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&titleColor=A371F7" width="80%" alt="streak"/> 
+</div>
+<br/> 
+
+<!-- ═══════════════════════════ CREDENTIALS ═══════════════════════════ -->
+<h3>🎓 Credentials</h3>
 
 **📜 Back-End Software Engineer with C#**
 
