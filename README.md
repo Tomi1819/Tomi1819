@@ -62,19 +62,19 @@ Software developer and AI enthusiast. Building tools where humans and AI work si
 <table>
   <tr>
     <td>🔄 <b>Flexibility</b></td>
-    <td>Adapting to each customer's environment, priorities, and changing requirements</td>
+    <td>Adapting to each customer's environment, priorities, and changing requirements.</td>
   </tr>
   <tr>
     <td>🚀 <b>Proactivity</b></td>
-    <td>Spotting problems early and proposing solutions before being asked</td>
+    <td>Spotting problems early and proposing solutions before being asked.</td>
   </tr>
   <tr>
     <td>🔥 <b>Motivation</b></td>
-    <td>Driven to learn continuously and see work through to production</td>
+    <td>Driven to learn continuously and see work through to production.</td>
   </tr>
   <tr>
     <td>💼 <b>Understanding the business</b></td>
-    <td>Connecting technical decisions to real business goals and outcomes</td>
+    <td>Connecting technical decisions to real business goals and outcomes.</td>
   </tr>
 </table>
 
