@@ -54,7 +54,33 @@ Software developer and AI enthusiast. Building tools where humans and AI work si
 
 🌱 Learning / exploring
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,azure,githubactions&theme=dark" alt="learning stack"/> <br/> <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white"/> <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> </div> <br/> <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,azure,githubactions&theme=dark" alt="learning stack"/> <br/> <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white"/> <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> </div> <br/> 
+
+<!-- ═══════════════════════════ SOFT SKILLS ═══════════════════════════ -->
+<h3 align="center">🤝 Soft Skills</h3>
+
+<table>
+  <tr>
+    <td>🔄 <b>Flexibility</b></td>
+    <td>Adapting to each customer's environment, priorities, and changing requirements</td>
+  </tr>
+  <tr>
+    <td>🚀 <b>Proactivity</b></td>
+    <td>Spotting problems early and proposing solutions before being asked</td>
+  </tr>
+  <tr>
+    <td>🔥 <b>Motivation</b></td>
+    <td>Driven to learn continuously and see work through to production</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Understanding the business</b></td>
+    <td>Connecting technical decisions to real business goals and outcomes</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 📂 Personal Projects
 
 <table>
